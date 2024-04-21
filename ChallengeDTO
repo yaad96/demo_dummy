@@ -10,9 +10,5 @@ public class ChallengeDTO extends DTO
 	public String challengeText;
 	public String newkey;
 
-	// Default constructor (required by Jackson JSON library)
-	public ChallengeDTO(int hello)
-	{
-	}
 
 }
